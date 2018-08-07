@@ -1,8 +1,8 @@
 // Скрипт добавить/убрать класс при клике
 <ul>
-   <li><a href="#" class="active"></a></li>
-   <li><a href="#"></a></li>
-   <li><a href="#"></a></li>
+   <li><a href="#" class="active">...</a></li>
+   <li><a href="#">...</a></li>
+   <li><a href="#">...</a></li>
 </ul>
 
 $(function() {
