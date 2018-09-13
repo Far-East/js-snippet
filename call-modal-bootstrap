@@ -1,0 +1,4 @@
+	$('.button-modal-form').on('click', function() {
+		$('#modal_form').modal('hide');
+		$('#modal_success').modal('show');
+	});
