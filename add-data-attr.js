@@ -1,4 +1,4 @@
-// Добавление атрибута data jQery
+// Добавление атрибута data jQery 
 jQuery(document).ready(function($) {
     // Сначала дорбавляем класс fedev-fansy
     $( '.gallery-item a' ).addClass( 'fedev-fansy' );
