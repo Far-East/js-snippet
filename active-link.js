@@ -1,4 +1,4 @@
-// Подсветка активной ссылки jQery
+// Подсветка активной ссылки jQery 
 jQuery(document).ready(function($) { 
 
 	$('.main-nav li a').each(function () {
