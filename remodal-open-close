@@ -1,0 +1,6 @@
+	var instagent = $('.agent-modal').remodal();  // добавленный к .remodal класс первого окна
+	var instconfirm = $('.modal-confirm').remodal(); // добавленный к .remodal класс второго окна
+	$('.agent-button').on('click', function () {  
+		instagent.close();
+		instconfirm.open();
+	});
