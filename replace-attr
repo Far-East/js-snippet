@@ -1,0 +1,4 @@
+// Так можно заменить любое значение любого атрибута. Здесь меняем ссылку на свою.
+    jQuery(document).ready(function($) { 
+        $('a.link').attr('href', 'svsites.ru');
+    });
